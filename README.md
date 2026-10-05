@@ -1,135 +1,169 @@
 <div align="center">
 
-# DRISHTI JAIN
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=DRISHTI%20JAIN&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Full-Stack%20Builder%20%7C%20Problem%20Solver&descAlignY=60&descSize=18&color=0:0F172A,45:312E81,100:06B6D4"/>
 
-### AI/ML Developer · Full-Stack Builder · Problem Solver
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=700&lines=Building+practical+AI-powered+applications;Turning+ideas+into+real+products;Learning+%7C+Building+%7C+Problem+Solving;B.Tech+CSE+(AI%2FML)+%7C+MUJ" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=750&lines=Building+practical+AI-powered+applications;Turning+ideas+into+real-world+products;Learning+%7C+Building+%7C+Problem+Solving;B.Tech+CSE+(AI%2FML)+%7C+Manipal+University+Jaipur" alt="Typing SVG"/>
 
 <br/>
 
 <a href="https://github.com/Drishtijain02">
 <img src="https://img.shields.io/badge/GitHub-Drishtijain02-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/drishti-jain-dj0205/">
 <img src="https://img.shields.io/badge/LinkedIn-Drishti%20Jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:drishtijain0202@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://leetcode.com/u/jain_drishti02/">
 <img src="https://img.shields.io/badge/LeetCode-100%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </div>
 
+<br/>
+
 ---
+
+<div align="center">
 
 ## About Me
 
-I'm **Drishti Jain**, a third-year **B.Tech Computer Science & Engineering (AI/ML)** student at **Manipal University Jaipur**, with a strong interest in building practical software and AI-driven applications.
+</div>
 
-I enjoy working at the intersection of **Machine Learning, NLP, Full-Stack Development and Problem Solving** — especially when an idea can be turned into something people can actually use.
+<div align="center">
 
-- 🎓 B.Tech CSE (AI/ML) — Manipal University Jaipur
-- 📈 CGPA: **9.65 / 10**
-- 💻 **100+ LeetCode problems solved**
-- 🤖 Interested in AI/ML, NLP, LLM applications & intelligent systems
-- 🌐 Building full-stack and production-oriented web applications
-- 🏆 Hackathon & competitive project experience
-- 👩‍💻 Former Team Head — Finance & Registration, MUJ ACM SIGAI
+I'm **Drishti Jain**, a third-year **B.Tech Computer Science & Engineering (AI/ML)** student at **Manipal University Jaipur**, passionate about building intelligent and practical software applications.
 
-> **I like building things that go beyond the classroom.**
+I enjoy combining **Machine Learning, NLP, Full-Stack Development and Problem Solving** to turn ideas into products that people can actually use.
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🎓 Education | 📊 Academics | 💻 Problem Solving | 🤖 Interests |
+|:---:|:---:|:---:|:---:|
+| B.Tech CSE (AI/ML) | **9.65 / 10 CGPA** | **100+ LeetCode** | AI/ML · NLP · LLMs |
+
+</div>
+
+<br/>
 
 ---
+
+<div align="center">
 
 ## Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,java,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,c,java,mysql&theme=dark" />
 
-### AI / ML
+<br/><br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,sklearn" />
-</p>
+### AI / Machine Learning
 
-`Machine Learning` · `NLP` · `Content-Based Recommendation` · `Cosine Similarity` · `Data Preprocessing` · `Feature Engineering`
+<img src="https://skillicons.dev/icons?i=python,sklearn&theme=dark" />
+
+<br/>
+
+`Machine Learning` &nbsp; `NLP` &nbsp; `Recommendation Systems` &nbsp; `Cosine Similarity` &nbsp; `Feature Engineering`
+
+<br/><br/>
 
 ### Web Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,streamlit" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,streamlit&theme=dark" />
 
-`Responsive UI` · `REST APIs` · `Frontend Development` · `Backend Integration`
+<br/>
+
+`Responsive UI` &nbsp; `REST APIs` &nbsp; `Frontend Development` &nbsp; `Backend Integration`
+
+<br/><br/>
 
 ### Tools & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,supabase" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,supabase&theme=dark" />
+
+</div>
+
+<br/>
 
 ---
 
-# Featured Projects
+<div align="center">
+
+## Featured Projects
+
+</div>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### Family Health Hub
+<h3 align="center">Family Health Hub</h3>
 
-**AI-powered family healthcare platform**
+<p align="center">
+<b>AI-Powered Family Healthcare Platform</b>
+</p>
 
 A centralized platform designed to organize and manage family healthcare information in one place.
 
-**My role:** Team Lead · 6-member team
+<br/>
+
+**My Role:** Team Lead · 6-member team
 
 **Highlights**
-
 - AI-assisted healthcare experience
 - Centralized family medical records
-- User-friendly healthcare dashboard
-- Team-based full-stack development
+- Healthcare dashboard
+- Full-stack team development
 - Qualified in the **SIH Internal Round**
-- Selected among approximately **100 teams from 500+ participating teams**
+- Selected among approximately **100 teams from 500+ teams**
 
-**Live Demo:**  
-[Family Health Hub](https://family-health-hub-eight.vercel.app/)
+<p align="center">
+<a href="https://family-health-hub-eight.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### CineFinder
+<h3 align="center">CineFinder</h3>
 
-**NLP-Based Content Recommendation Engine**
+<p align="center">
+<b>NLP-Based Content Recommendation Engine</b>
+</p>
 
-A movie recommendation system using **content-based filtering** and NLP to recommend movies based on similarity.
+A movie recommendation system using **content-based filtering** and NLP to recommend movies based on content similarity.
+
+<br/>
 
 **Highlights**
-
-- NLP-based movie recommendations
-- Bag of Words feature representation
+- NLP-based recommendations
+- Bag of Words
 - Cosine similarity
-- Combined movie overview, genres, cast & keywords
-- Top 10 personalized recommendations
-- TMDB posters, ratings, cast & director information
-- Streamlit interactive interface
-- Caching for improved performance
+- Overview + genres + cast + keywords
+- Top 10 recommendations
+- TMDB posters & movie metadata
+- Streamlit interface
+- Caching for better performance
 
 **Tech:** Python · Streamlit · Scikit-learn · NLP · TMDB API
 
-**Live Demo:**  
-[CineFinder](https://movie-recommender-cinefinder.streamlit.app/)
+<p align="center">
+<a href="https://movie-recommender-cinefinder.streamlit.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-06B6D4?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+</p>
 
 </td>
 
@@ -139,20 +173,24 @@ A movie recommendation system using **content-based filtering** and NLP to recom
 
 <td width="50%" valign="top">
 
-### MindMitra
+<h3 align="center">MindMitra</h3>
 
-**AI-powered conversational application**
+<p align="center">
+<b>AI-Powered Conversational Application</b>
+</p>
 
-An earlier AI project that I'm currently upgrading into a more robust and production-ready application.
+An AI project from my second year that I'm now upgrading into a more robust and production-ready application.
 
-**Current direction**
+<br/>
 
+**Current Upgrade**
 - Modern LLM integration
-- Better conversational experience
+- Groq API integration
 - Supabase backend
-- Improved authentication & data management
-- More polished UI/UX
-- Deployment and production improvements
+- Improved authentication
+- Better data management
+- Enhanced UI/UX
+- Production deployment
 
 **Focus:** LLM Applications · Backend · AI Integration
 
@@ -160,14 +198,17 @@ An earlier AI project that I'm currently upgrading into a more robust and produc
 
 <td width="50%" valign="top">
 
-### Salon Business Website
+<h3 align="center">Salon Business Website</h3>
 
-**Production website for a real salon business**
+<p align="center">
+<b>Production Website for a Real Business</b>
+</p>
 
 A complete website developed for an actual salon business and currently being used by the business.
 
-**Highlights**
+<br/>
 
+**Highlights**
 - Custom business-focused design
 - Responsive interface
 - Service presentation
@@ -175,93 +216,160 @@ A complete website developed for an actual salon business and currently being us
 - Production deployment
 - Built for a real-world client
 
-**Live Website:**  
-[Golden Touch Salon](https://golden-touch-frontend.vercel.app/)
+<p align="center">
+<a href="https://golden-touch-frontend.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Website-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
 
 </td>
 
 </tr>
 </table>
 
----
+<br/>
 
-# Problem Solving
+---
 
 <div align="center">
 
+## Problem Solving
+
 <a href="https://leetcode.com/u/jain_drishti02/">
-<img src="https://leetcard.jacoblin.cool/jain_drishti02?theme=dark&font=Baloo&ext=heatmap" width="600"/>
+
+<img src="https://leetcard.jacoblin.cool/jain_drishti02?theme=dark&font=Baloo&ext=heatmap" width="650"/>
+
 </a>
 
 <br/><br/>
 
-**100+ LeetCode Problems Solved**
+<img src="https://img.shields.io/badge/100%2B-LeetCode%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+<br/><br/>
 
 `Arrays` · `Strings` · `Binary Search` · `Linked Lists` · `Stacks & Queues` · `Trees` · `Graphs` · `Sliding Window` · `Dynamic Programming`
 
 </div>
 
----
-
-# Achievements
-
-| Achievement | Details |
-|---|---|
-| **SIH Internal Round** | Selected among approximately **100 teams from 500+ teams** |
-| **9th Position** | Ranked **9th among 200+ participating teams** |
-| **Bug Monopoly** | **2nd Prize** |
-| **Academic Excellence** | **9.65 / 10 CGPA** |
-| **Problem Solving** | **100+ LeetCode problems solved** |
+<br/>
 
 ---
 
-# Leadership & Experience
+<div align="center">
+
+## Achievements
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="220">
+
+### 9.65
+
+**CGPA / 10**
+
+</td>
+
+<td align="center" width="220">
+
+### 9th
+
+**Position**
+
+200+ participating teams
+
+</td>
+
+<td align="center" width="220">
+
+### 100+
+
+**LeetCode**
+
+Problems Solved
+
+</td>
+
+<td align="center" width="220">
+
+### 2nd
+
+**Prize**
+
+Bug Monopoly
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+**SIH Internal Round**  
+Selected among approximately **100 teams from 500+ participating teams**
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## Leadership & Experience
+
+</div>
 
 ### Former Team Head — Finance & Registration
-
 **MUJ ACM SIGAI**
 
 Led the Finance & Registration team during my first and second year at MUJ.
 
-Responsibilities included:
-
-- Managing event registrations and financial coordination
-- Coordinating team members and task allocation
-- Handling event-related logistics
-- Supporting technical and non-technical college events
-- Working with teams during large-scale student events
+- Managed event registrations and financial coordination
+- Coordinated team members and task allocation
+- Handled event-related logistics
+- Supported technical and non-technical college events
+- Worked with teams during large-scale student events
 
 ### Event & Hackathon Experience
 
-Contributed to organizing and managing events including:
+Contributed to organizing and managing:
 
-- **ELICIT '25**
-- **BallerBots** — ₹60K prize pool
-- **DevCon**
-- **DEFCON**
-- College-level hackathons and technical events
+`ELICIT '25` · `BallerBots` · `DevCon` · `DEFCON`
+
+**BallerBots:** ₹60K prize pool
 
 ---
 
-# GitHub Analytics
-
 <div align="center">
+
+## GitHub Analytics
+
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Drishtijain02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
 
+&nbsp;&nbsp;
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drishtijain02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Drishtijain02&theme=tokyonight&hide_border=true" />
 
 </div>
 
+<br/>
+
 ---
 
-# Contribution Activity
-
 <div align="center">
+
+## Contribution Activity
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Drishtijain02/Drishtijain02/output/github-snake-dark.svg">
@@ -271,9 +379,13 @@ Contributed to organizing and managing events including:
 
 </div>
 
+<br/>
+
 ---
 
-# Currently Building
+<div align="center">
+
+## Currently Building
 
 <table>
 <tr>
@@ -282,7 +394,7 @@ Contributed to organizing and managing events including:
 
 ### AI / ML
 
-Working on practical ML and NLP applications.
+Practical ML & NLP applications
 
 </td>
 
@@ -290,7 +402,7 @@ Working on practical ML and NLP applications.
 
 ### LLM Apps
 
-Exploring modern LLM APIs and AI-powered workflows.
+AI-powered workflows & assistants
 
 </td>
 
@@ -298,7 +410,7 @@ Exploring modern LLM APIs and AI-powered workflows.
 
 ### Full Stack
 
-Building complete applications instead of isolated demos.
+Complete deployable applications
 
 </td>
 
@@ -306,44 +418,53 @@ Building complete applications instead of isolated demos.
 
 ### DSA
 
-Consistently improving problem-solving and algorithmic thinking.
+Algorithms & problem solving
 
 </td>
 
 <td align="center" width="20%">
 
-### Projects
+### Real Products
 
-Turning ideas into deployable, real-world products.
+Turning ideas into usable software
 
 </td>
 
 </tr>
 </table>
 
----
+</div>
 
-# Currently Learning
+<br/>
+
+---
 
 <div align="center">
 
-| | |
-|---|---|
-| **Advanced Machine Learning** | **NLP & Recommendation Systems** |
-| **LLM Application Development** | **Backend & Database Design** |
-| **System Design & Scalable Applications** | **DSA & Problem Solving** |
+## Currently Learning
+
+<br/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-312E81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-4338CA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20Applications-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-0E7490?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-06B6D4?style=for-the-badge"/>
 
 </div>
 
----
+<br/>
 
-# My Development Philosophy
+---
 
 <div align="center">
 
+## Development Philosophy
+
 ### Learn → Build → Break → Improve → Ship
 
-I believe the best way to learn technology is to build with it.
+I believe the best way to learn technology is to **build with it**.
 
 Instead of only studying concepts, I try to turn them into projects,
 experiment with different approaches, understand what fails,
@@ -351,13 +472,13 @@ and keep improving until the result becomes something useful.
 
 </div>
 
----
+<br/>
 
-# Let's Connect
+---
 
 <div align="center">
 
-If you're interested in **AI/ML, software development, hackathons, open-source projects or building something interesting**, feel free to connect.
+## Let's Connect
 
 <br/>
 
@@ -365,9 +486,13 @@ If you're interested in **AI/ML, software development, hackathons, open-source p
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="mailto:drishtijain0202@gmail.com">
 <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+&nbsp;
 
 <a href="https://github.com/Drishtijain02">
 <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-18181B?style=for-the-badge&logo=github&logoColor=white"/>
@@ -375,14 +500,18 @@ If you're interested in **AI/ML, software development, hackathons, open-source p
 
 <br/><br/>
 
+<img src="https://komarev.com/ghpvc/?username=Drishtijain02&style=flat-square&color=06B6D4&label=Profile+Views"/>
+
+<br/><br/>
+
 **Thanks for stopping by.**
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F172A,50:312E81,100:06B6D4"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:312E81,100:06B6D4"/>
 
 </div>
