@@ -30,7 +30,7 @@
 
 <div align="center">
 
-## About Me
+## 👋 About Me
 
 </div>
 
@@ -58,15 +58,15 @@ I enjoy combining **Machine Learning, NLP, Full-Stack Development and Problem So
 
 <div align="center">
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=python,c,java,mysql&theme=dark" />
 
 <br/><br/>
 
-### AI / Machine Learning
+### 🤖 AI / Machine Learning
 
 <img src="https://skillicons.dev/icons?i=python,sklearn&theme=dark" />
 
@@ -76,7 +76,7 @@ I enjoy combining **Machine Learning, NLP, Full-Stack Development and Problem So
 
 <br/><br/>
 
-### Web Development
+### 🌐 Web Development
 
 <img src="https://skillicons.dev/icons?i=html,css,js,streamlit&theme=dark" />
 
@@ -86,7 +86,7 @@ I enjoy combining **Machine Learning, NLP, Full-Stack Development and Problem So
 
 <br/><br/>
 
-### Tools & Platforms
+### ⚙️ Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,supabase&theme=dark" />
 
@@ -98,7 +98,7 @@ I enjoy combining **Machine Learning, NLP, Full-Stack Development and Problem So
 
 <div align="center">
 
-## Featured Projects
+## 🚀 Featured Projects
 
 </div>
 
@@ -107,7 +107,7 @@ I enjoy combining **Machine Learning, NLP, Full-Stack Development and Problem So
 
 <td width="50%" valign="top">
 
-<h3 align="center">Family Health Hub</h3>
+<h3 align="center">🏥 Family Health Hub</h3>
 
 <p align="center">
 <b>AI-Powered Family Healthcare Platform</b>
@@ -120,12 +120,12 @@ A centralized platform designed to organize and manage family healthcare informa
 **My Role:** Team Lead · 6-member team
 
 **Highlights**
-- AI-assisted healthcare experience
-- Centralized family medical records
-- Healthcare dashboard
-- Full-stack team development
-- Qualified in the **SIH Internal Round**
-- Selected among approximately **100 teams from 500+ teams**
+- 🤖 AI-assisted healthcare experience
+- 🗂️ Centralized family medical records
+- 📊 Healthcare dashboard
+- 👥 Full-stack team development
+- 🏆 Qualified in the **SIH Internal Round**
+- 🎯 Selected among approximately **100 teams from 500+ teams**
 
 <p align="center">
 <a href="https://family-health-hub-eight.vercel.app/">
@@ -137,7 +137,7 @@ A centralized platform designed to organize and manage family healthcare informa
 
 <td width="50%" valign="top">
 
-<h3 align="center">CineFinder</h3>
+<h3 align="center">🎬 CineFinder</h3>
 
 <p align="center">
 <b>NLP-Based Content Recommendation Engine</b>
@@ -148,14 +148,14 @@ A movie recommendation system using **content-based filtering** and NLP to recom
 <br/>
 
 **Highlights**
-- NLP-based recommendations
-- Bag of Words
-- Cosine similarity
-- Overview + genres + cast + keywords
-- Top 10 recommendations
-- TMDB posters & movie metadata
-- Streamlit interface
-- Caching for better performance
+- 🧠 NLP-based recommendations
+- 🔤 Bag of Words
+- 📐 Cosine similarity
+- 🎭 Overview + genres + cast + keywords
+- 🔟 Top 10 recommendations
+- 🎞️ TMDB posters & movie metadata
+- ⚡ Streamlit interface
+- 🚀 Caching for better performance
 
 **Tech:** Python · Streamlit · Scikit-learn · NLP · TMDB API
 
@@ -173,7 +173,7 @@ A movie recommendation system using **content-based filtering** and NLP to recom
 
 <td width="50%" valign="top">
 
-<h3 align="center">MindMitra</h3>
+<h3 align="center">💬 MindMitra</h3>
 
 <p align="center">
 <b>AI-Powered Conversational Application</b>
@@ -184,13 +184,13 @@ An AI project from my second year that I'm now upgrading into a more robust and 
 <br/>
 
 **Current Upgrade**
-- Modern LLM integration
-- Groq API integration
-- Supabase backend
-- Improved authentication
-- Better data management
-- Enhanced UI/UX
-- Production deployment
+- 🧠 Modern LLM integration
+- ⚡ Groq API integration
+- 🗄️ Supabase backend
+- 🔐 Improved authentication
+- 📦 Better data management
+- 🎨 Enhanced UI/UX
+- 🚀 Production deployment
 
 **Focus:** LLM Applications · Backend · AI Integration
 
@@ -198,7 +198,7 @@ An AI project from my second year that I'm now upgrading into a more robust and 
 
 <td width="50%" valign="top">
 
-<h3 align="center">Salon Business Website</h3>
+<h3 align="center">💇 Salon Business Website</h3>
 
 <p align="center">
 <b>Production Website for a Real Business</b>
@@ -209,12 +209,12 @@ A complete website developed for an actual salon business and currently being us
 <br/>
 
 **Highlights**
-- Custom business-focused design
-- Responsive interface
-- Service presentation
-- Customer-oriented UI
-- Production deployment
-- Built for a real-world client
+- 🎨 Custom business-focused design
+- 📱 Responsive interface
+- ✂️ Service presentation
+- 👥 Customer-oriented UI
+- 🚀 Production deployment
+- 💼 Built for a real-world client
 
 <p align="center">
 <a href="https://golden-touch-frontend.vercel.app/">
@@ -233,7 +233,7 @@ A complete website developed for an actual salon business and currently being us
 
 <div align="center">
 
-## Problem Solving
+## 🧩 Problem Solving
 
 <a href="https://leetcode.com/u/jain_drishti02/">
 
@@ -257,7 +257,7 @@ A complete website developed for an actual salon business and currently being us
 
 <div align="center">
 
-## Achievements
+## 🏆 Achievements
 
 </div>
 
@@ -307,7 +307,7 @@ Bug Monopoly
 
 <div align="center">
 
-**SIH Internal Round**  
+**🎯 SIH Internal Round**  
 Selected among approximately **100 teams from 500+ participating teams**
 
 </div>
@@ -318,7 +318,7 @@ Selected among approximately **100 teams from 500+ participating teams**
 
 <div align="center">
 
-## Leadership & Experience
+## 👑 Leadership & Experience
 
 </div>
 
@@ -327,13 +327,13 @@ Selected among approximately **100 teams from 500+ participating teams**
 
 Led the Finance & Registration team during my first and second year at MUJ.
 
-- Managed event registrations and financial coordination
-- Coordinated team members and task allocation
-- Handled event-related logistics
-- Supported technical and non-technical college events
-- Worked with teams during large-scale student events
+- 💰 Managed event registrations and financial coordination
+- 👥 Coordinated team members and task allocation
+- 📋 Handled event-related logistics
+- 🎪 Supported technical and non-technical college events
+- 🤝 Worked with teams during large-scale student events
 
-### Event & Hackathon Experience
+### 🎤 Event & Hackathon Experience
 
 Contributed to organizing and managing:
 
@@ -345,7 +345,7 @@ Contributed to organizing and managing:
 
 <div align="center">
 
-## GitHub Analytics
+## 📈 GitHub Analytics
 
 <br/>
 
@@ -367,7 +367,7 @@ Contributed to organizing and managing:
 
 <div align="center">
 
-## Contribution Activity
+## 🐍 Contribution Activity
 
 <br/>
 
@@ -385,14 +385,14 @@ Contributed to organizing and managing:
 
 <div align="center">
 
-## Currently Building
+## 🔨 Currently Building
 
 <table>
 <tr>
 
 <td align="center" width="20%">
 
-### AI / ML
+### 🤖 AI / ML
 
 Practical ML & NLP applications
 
@@ -400,7 +400,7 @@ Practical ML & NLP applications
 
 <td align="center" width="20%">
 
-### LLM Apps
+### 🧠 LLM Apps
 
 AI-powered workflows & assistants
 
@@ -408,7 +408,7 @@ AI-powered workflows & assistants
 
 <td align="center" width="20%">
 
-### Full Stack
+### 🌐 Full Stack
 
 Complete deployable applications
 
@@ -416,7 +416,7 @@ Complete deployable applications
 
 <td align="center" width="20%">
 
-### DSA
+### 🧩 DSA
 
 Algorithms & problem solving
 
@@ -424,7 +424,7 @@ Algorithms & problem solving
 
 <td align="center" width="20%">
 
-### Real Products
+### 🚀 Real Products
 
 Turning ideas into usable software
 
@@ -441,7 +441,7 @@ Turning ideas into usable software
 
 <div align="center">
 
-## Currently Learning
+## 📚 Currently Learning
 
 <br/>
 
@@ -460,7 +460,7 @@ Turning ideas into usable software
 
 <div align="center">
 
-## Development Philosophy
+## 💡 Development Philosophy
 
 ### Learn → Build → Break → Improve → Ship
 
@@ -478,7 +478,7 @@ and keep improving until the result becomes something useful.
 
 <div align="center">
 
-## Let's Connect
+## 🤝 Let's Connect
 
 <br/>
 
