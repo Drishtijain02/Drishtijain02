@@ -261,14 +261,18 @@ A complete website developed for an actual salon business and currently being us
 
 <div align="center">
 
-## 🏆 Achievements
+---
+
+<div align="center">
+
+## 🏆 Achievements & Highlights
 
 <br/>
 
 <table align="center">
 <tr>
 
-<td align="center" width="200">
+<td align="center" width="180">
 
 ### 🎓 9.65/10
 
@@ -278,17 +282,19 @@ Academic Performance
 
 </td>
 
-<td align="center" width="200">
+<td align="center" width="180">
 
 ### 🥇 9th
 
 **Position**
 
-Among 200+ Participants
+Kagglethon
+
+200+ Participants
 
 </td>
 
-<td align="center" width="200">
+<td align="center" width="180">
 
 ### 💻 100+
 
@@ -298,7 +304,7 @@ Problems Solved
 
 </td>
 
-<td align="center" width="200">
+<td align="center" width="180">
 
 ### 🥈 2nd
 
@@ -308,18 +314,24 @@ Bug Monopoly
 
 </td>
 
+<td align="center" width="180">
+
+### 🎯 SIH
+
+**Internal Round**
+
+100 / 500+ Teams
+
+</td>
+
 </tr>
 </table>
-
-<br/>
-
-🎯 **SIH Internal Round**
-
-Selected among approximately **100 teams from 500+ participating teams**
 
 </div>
 
 <br/>
+
+
 
 ---
 
@@ -355,6 +367,7 @@ Worked across **event coordination, registrations, team management and on-ground
 <br/>
 
 ---
+<div align="center">
 
 ## 📈 GitHub Analytics
 
