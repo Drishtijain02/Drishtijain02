@@ -257,33 +257,40 @@ A complete website developed for an actual salon business and currently being us
 
 <div align="center">
 
+---
+
+<div align="center">
+
 ## 🏆 Achievements
 
-</div>
+<br/>
 
 <table align="center">
 <tr>
-<td align="center" width="220">
 
-### 9.65
+<td align="center" width="200">
 
-**CGPA / 10**
+### 🎓 9.65/10
+
+**CGPA**
+
+Academic Performance
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="200">
 
-### 9th
+### 🥇 9th
 
 **Position**
 
-200+ participating teams
+Among 200+ Participants
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="200">
 
-### 100+
+### 💻 100+
 
 **LeetCode**
 
@@ -291,28 +298,30 @@ Problems Solved
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="200">
 
-### 2nd
+### 🥈 2nd
 
 **Prize**
 
 Bug Monopoly
 
 </td>
+
 </tr>
 </table>
 
 <br/>
 
-<div align="center">
+🎯 **SIH Internal Round**
 
-**🎯 SIH Internal Round**  
 Selected among approximately **100 teams from 500+ participating teams**
 
 </div>
 
 <br/>
+
+---
 
 ---
 
@@ -325,25 +334,27 @@ Selected among approximately **100 teams from 500+ participating teams**
 ### Former Team Head — Finance & Registration
 **MUJ ACM SIGAI**
 
-Led the Finance & Registration team during my first and second year at MUJ.
+Led the Finance & Registration team during my first and second year at Manipal University Jaipur.
 
 - 💰 Managed event registrations and financial coordination
-- 👥 Coordinated team members and task allocation
-- 📋 Handled event-related logistics
-- 🎪 Supported technical and non-technical college events
-- 🤝 Worked with teams during large-scale student events
+- 👥 Coordinated team members and delegated responsibilities
+- 📋 Handled registration workflows and event logistics
+- 🤝 Worked closely with organizing teams to ensure smooth event execution
+- 🎪 Supported the planning and execution of college-level technical events
 
 ### 🎤 Event & Hackathon Experience
 
-Contributed to organizing and managing:
+Contributed to the organization and execution of multiple college events and technical initiatives, including:
 
 `ELICIT '25` · `BallerBots` · `DevCon` · `DEFCON`
 
-**BallerBots:** ₹60K prize pool
+Worked across **event coordination, registrations, team management and on-ground execution**.
+
+</div>
+
+<br/>
 
 ---
-
-<div align="center">
 
 ## 📈 GitHub Analytics
 
