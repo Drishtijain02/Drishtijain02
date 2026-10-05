@@ -1,119 +1,191 @@
 <div align="center">
 
-# 👋 Hey, I'm Drishti Jain
-
-### `AI/ML Student` • `Developer` • `Problem Solver` • `Builder`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications+%F0%9F%A4%96;Learning+%26+solving+every+day+%F0%9F%92%BB;Turning+ideas+into+real+projects+%F0%9F%9A%80;Future+Software+%26+AI+Engineer+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=DRISHTI%20JAIN&fontAlign=50&fontAlignY=40&fontSize=48&fontColor=ffffff&desc=AI%2FML%20%7C%20SOFTWARE%20DEVELOPMENT%20%7C%20PROBLEM%20SOLVING&descAlign=50&descAlignY=65&animation=fadeIn&color=0:0F172A,50:312E81,100:0E7490"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&pause=1200&color=67E8F9&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications+%F0%9F%A4%96;Turning+ideas+into+working+products+%F0%9F%9A%80;Learning+%E2%80%A2+Building+%E2%80%A2+Breaking+%E2%80%A2+Improving;Future+Software+%26+AI+Engineer+%E2%9C%A8" alt="Typing SVG"/>
+
+<br/><br/>
+
 <a href="https://www.linkedin.com/in/drishti-jain-dj0205/">
-<img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=67E8F9"/>
 </a>
 <a href="https://leetcode.com/u/jain_drishti02/">
-<img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+<img src="https://img.shields.io/badge/LEETCODE-0F172A?style=for-the-badge&logo=leetcode&logoColor=FACC15"/>
 </a>
 <a href="https://github.com/Drishtijain02">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=E2E8F0"/>
 </a>
 <a href="mailto:drishtijain0202@gmail.com">
-<img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=FB7185"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Drishtijain02&label=Profile%20Views&color=A78BFA&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Drishtijain02&label=PROFILE%20VIEWS&color=0E7490&style=flat-square"/>
 
 </div>
 
 ---
 
-## 💫 About Me
+<div align="center">
+
+### `whoami`
+
+**B.Tech CSE (AI/ML) @ Manipal University Jaipur**
+
+*Building things that turn ideas into useful software.*
+
+</div>
+
+<br/>
+
+## 🧬 `ABOUT_ME`
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### Hey! I'm Drishti 👋
+
+I'm a **Computer Science student specializing in AI/ML**, interested in building practical applications that combine **machine learning, software development and intelligent systems**.
+
+I enjoy taking an idea from:
+
+`💡 Concept` → `🧠 Logic` → `💻 Code` → `🚀 Product`
+
+Currently, I'm strengthening my foundations in **DSA, Machine Learning, backend development, databases and LLM-powered applications**.
+
+</td>
+
+<td width="45%" valign="top">
 
 ```text
-🎓 B.Tech CSE (AI/ML) student @ Manipal University Jaipur
-📊 CGPA: 9.65 / 10
-💻 100+ LeetCode problems solved
-🤖 Interested in AI/ML, LLM applications & software development
-🚀 Team Lead — Family Health Hub
-🏆 SIH Internal Round Qualifier
-👩‍💻 Team Head — Finance & Registration, MUJ ACM Student Chapter
+🎓 Education
+B.Tech CSE (AI/ML)
+
+🏫 University
+Manipal University Jaipur
+
+📊 CGPA
+9.65 / 10
+
+💻 Problem Solving
+100+ LeetCode
+
+🤖 Interests
+AI / ML / LLMs
+
+🚀 Current Focus
+Building + Learning
 ```
 
-I enjoy building **practical, user-focused applications** that combine software development with AI/ML.
-
-Currently, I'm focused on strengthening my **DSA, machine learning, backend development and system-building skills** while working on projects that solve real-world problems.
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ `QUICK_STATS`
 
-### 👩‍💻 Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,java,mysql&theme=dark" />
-</p>
+<img src="https://img.shields.io/badge/CGPA-9.65%2F10-67E8F9?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/LEETCODE-100%2B-FACC15?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/SIH-QUALIFIED-A78BFA?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/TEAM-LEAD-F472B6?style=for-the-badge&labelColor=0F172A"/>
+
+</div>
+
+---
+
+# 🛠️ `TECH_STACK`
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,java,mysql&theme=dark"/>
+
+<br/><br/>
 
 ### 🤖 AI / Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+<img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-0F172A?style=for-the-badge&logo=scikit-learn&logoColor=FACC15"/>
+<img src="https://img.shields.io/badge/NLP-0F172A?style=for-the-badge&logo=probot&logoColor=F472B6"/>
 
-### 🌐 Web & Backend
+<br/><br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark" />
-<img src="https://skillicons.dev/icons?i=supabase&theme=dark" />
-</p>
+### 🌐 Web / Backend / Database
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,supabase,mysql&theme=dark"/>
+
+<br/><br/>
 
 ### ⚙️ Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+
+</div>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 `FEATURED_PROJECTS`
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🏥 Family Health Hub
+## 🏥 Family Health Hub
 
-An AI-powered platform designed to centralize and manage family healthcare information.
+**AI-powered family healthcare platform**
 
-**My Role:** Team Lead
+A centralized platform designed to manage family medical information and provide intelligent healthcare assistance.
 
-**Highlights**
-- 👥 Led a 3-member team
+### 👩‍💻 Role
+**Team Lead — 6-member team**
+
+### Highlights
+
+- 👥 Led a team of 6
 - 🗂️ Centralized family medical records
 - 🤖 AI-powered healthcare assistance
-- 🏆 Selected for SIH Internal Round
-- 📈 Among ~100 selected teams from 500+ college teams
+- 🎨 Family-oriented user experience
+- 🚀 Built as a hackathon/project solution
+- 🏆 Qualified for the **SIH Internal Round**
+- 📈 Selected among **~100 teams from 500+ teams** at the college level
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧠 MindMitra
+## 🎬 CineFinder
 
-An AI-powered mental wellness application designed to provide users with an accessible and supportive digital companion.
+**NLP-Based Content Recommendation Engine**
 
-**Current Upgrade**
+A machine-learning movie recommendation system that suggests similar movies using **content-based filtering**.
 
-- 🤖 LLM integration
-- ⚡ Modern AI backend
-- 🗄️ Supabase integration
-- 🔐 Improved data management
-- 🎨 Redesigned user experience
+### Highlights
+
+- 🔍 Smart movie search
+- 🎯 Top 10 similar movie recommendations
+- 🎬 Movie posters using TMDB API
+- ℹ️ Ratings, cast, director & overview
+- ⚡ Fast performance using caching
+- 🎨 Interactive Streamlit interface
+
+### ML Pipeline
+
+`Preprocessing` → `Feature Engineering` → `BoW` → `Cosine Similarity` → `Recommendations`
+
+<a href="https://movie-recommender-cinefinder.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-0E7490?style=for-the-badge"/>
+</a>
 
 </td>
 
@@ -123,31 +195,38 @@ An AI-powered mental wellness application designed to provide users with an acce
 
 <td width="50%" valign="top">
 
-### 💇 Salon Management Website
+## 🧠 MindMitra
 
-A complete responsive website developed for a salon business.
+**AI-powered mental wellness application**
 
-**Focus**
+An application designed to provide users with an accessible and supportive digital companion.
 
-- 🎨 Modern UI
-- 📱 Responsive design
-- 🧩 Structured frontend
-- ✨ User-friendly experience
+### Current Upgrade
+
+- 🤖 LLM integration
+- ⚡ AI-powered backend
+- 🗄️ Supabase integration
+- 🔐 Improved data management
+- 🎨 Redesigned UI/UX
+- 🚀 Modernized architecture
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🍽️ Restaurant Management System
+## 💇 Salon Website
 
-A database-driven application for managing restaurant operations.
+**Complete responsive web application**
 
-**Focus**
+A polished website developed for a salon business with a focus on usability and modern frontend design.
 
-- 🗄️ MySQL database
-- 🔄 CRUD operations
-- 📊 Database management
-- 🧩 Practical software design
+### Highlights
+
+- 🎨 Modern UI
+- 📱 Responsive layout
+- 🧩 Structured frontend
+- ✨ User-focused design
+- 🌐 Complete website experience
 
 </td>
 
@@ -156,159 +235,166 @@ A database-driven application for managing restaurant operations.
 
 ---
 
-# 🧠 Problem Solving
+# 🧠 `PROBLEM_SOLVING`
 
 <div align="center">
 
-### 💻 100+ LeetCode Problems Solved
-
-<img src="https://img.shields.io/badge/Problems%20Solved-100%2B-A78BFA?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/100%2B-LEETCODE%20PROBLEMS-FACC15?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0F172A"/>
 
 <br/><br/>
 
+<a href="https://leetcode.com/u/jain_drishti02/">
 <img src="https://leetcard.jacoblin.cool/jain_drishti02?theme=dark&font=Baloo&ext=heatmap" width="500"/>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-| 🏆 Achievement | 📌 Details |
-|:---|:---|
-| 🚀 **SIH Internal Round** | Selected among ~100 teams from 500+ college teams |
-| 👩‍💻 **Team Lead** | Family Health Hub |
-| 🥇 **Bug Monopoly** | 2nd Prize |
-| 📊 **Academic Performance** | 9.65 / 10 CGPA |
-| 💻 **Problem Solving** | 100+ LeetCode Problems |
-
-</div>
-
----
-
-# 👩‍💼 Leadership & Community
-
-### 💜 MUJ ACM Student Chapter
-
-**Team Head — Finance & Registration**
-
-- Led finance and registration operations for student chapter activities
-- Worked on large-scale technical events and competitions
-- Contributed to event planning and execution
-- Progressed from the junior working team to a leadership position
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Drishtijain02&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drishtijain02&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Drishtijain02&theme=tokyonight&hide_border=true&border_radius=12" />
+**DSA • Arrays • Strings • Binary Search • Sliding Window • Trees • Graphs**
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 🏆 `ACHIEVEMENTS`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Drishtijain02&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="95%"/>
+| 🏆 Achievement | 📌 Result |
+|:---|:---|
+| 🚀 **SIH Internal Round** | Selected among ~100 teams from 500+ teams |
+| 🥇 **TRACE / Hackathon** | **9th Position** among 200+ participating teams |
+| 🏅 **Bug Monopoly** | **2nd Prize** |
+| 📊 **Academic Performance** | **9.65 / 10 CGPA** |
+| 💻 **Problem Solving** | **100+ LeetCode Problems** |
 
 </div>
 
 ---
 
-# 🎯 Currently Working On
+# 👩‍💼 `LEADERSHIP`
+
+## 💜 MUJ ACM Student Chapter — SIGAI
+
+**Former Team Head — Finance & Registration**
+
+> *Leadership role held until 2nd year.*
+
+- 📊 Led finance and registration operations
+- 🎯 Worked on technical events and competitions
+- 🤝 Coordinated with multiple teams and participants
+- ⚙️ Contributed to event planning and execution
+- 📈 Progressed from the junior working team into a leadership role
+
+---
+
+# 📊 `GITHUB_ACTIVITY`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Drishtijain02&show_icons=true&theme=transparent&title_color=67E8F9&text_color=C4B5FD&icon_color=F472B6&border_color=312E81&hide_border=false&border_radius=12&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drishtijain02&layout=compact&theme=transparent&title_color=67E8F9&text_color=C4B5FD&border_color=312E81&hide_border=false&border_radius=12"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Drishtijain02&theme=transparent&hide_border=false&border=312E81&stroke=312E81&ring=67E8F9&fire=F472B6&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&background=0F172A"/>
+
+</div>
+
+---
+
+# 🔥 `CONTRIBUTIONS`
+
+<div align="center">
+
+<a href="https://github.com/Drishtijain02">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Drishtijain02&bg_color=0F172A&color=67E8F9&line=A78BFA&point=F472B6&area=true&area_color=312E81&hide_border=false&border_color=312E81&radius=12"/>
+
+</a>
+
+</div>
+
+> **If the activity graph above doesn't load**, GitHub's external activity-graph service may be temporarily unavailable. Your actual GitHub contribution graph on your profile is unaffected.
+
+---
+
+# 🎯 `CURRENTLY_BUILDING`
+
+<div align="center">
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  🤖 AI / ML Projects                                 │
-│  🧠 LLM-powered Applications                         │
-│  🗄️ Backend & Database Development                   │
-│  💻 DSA & Competitive Programming                    │
-│  🚀 Building Better Full-Stack Projects              │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│   🤖  AI / ML APPLICATIONS                                 │
+│                                                            │
+│   🧠  LLM-POWERED PRODUCTS                                 │
+│                                                            │
+│   🗄️  BACKEND + DATABASE SYSTEMS                          │
+│                                                            │
+│   💻  DSA + PROBLEM SOLVING                               │
+│                                                            │
+│   🚀  FULL-STACK PROJECTS                                 │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 ```
-
----
-
-# 🌱 Currently Learning
-
-`Data Structures & Algorithms`  
-`Machine Learning`  
-`LLM Applications`  
-`Backend Development`  
-`Database Systems`  
-`System Design Fundamentals`
-
----
-
-# 💭 My Developer Philosophy
-
-<div align="center">
-
-### *"Don't just learn technology. Build with it."* 🚀
-
-<br/>
-
-I believe the best way to learn is to **build, break, debug, and build again.**
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
+# 🌱 `CURRENTLY_LEARNING`
 
 <div align="center">
 
-I'm always open to discussing **AI/ML, interesting projects, collaborations, internships and technology.**
+`DSA` &nbsp; `Machine Learning` &nbsp; `LLM Applications`
+
+`Backend Development` &nbsp; `Database Systems` &nbsp; `System Design`
+
+</div>
+
+---
+
+# 💭 `DEVELOPER_PHILOSOPHY`
+
+<div align="center">
+
+### **Build → Break → Debug → Learn → Build Better.**
 
 <br/>
 
-<a href="https://www.linkedin.com/in/drishti-jain-dj0205/?isSelfProfile=true">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+> *"The best way to learn technology is to create something with it."*
+
+</div>
+
+---
+
+# 🤝 `LET'S_CONNECT`
+
+<div align="center">
+
+### Have an interesting idea? Let's build it. 🚀
+
+<br/>
+
+<a href="https://www.linkedin.com/in/drishti-jain-dj0205/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-67E8F9?style=for-the-badge&logo=linkedin&logoColor=0F172A"/>
 </a>
 
 <a href="https://leetcode.com/u/jain_drishti02/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+<img src="https://img.shields.io/badge/LeetCode-Visit-0F172A?style=for-the-badge&logo=leetcode&logoColor=FACC15"/>
+</a>
+
+<a href="https://github.com/Drishtijain02">
+<img src="https://img.shields.io/badge/GitHub-Follow-A78BFA?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:drishtijain0202@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Say%20Hello-F472B6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### ⭐ If you find my projects interesting, consider starring them!
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:312E81,100:0E7490"/>
 
 </div>
-
-<!--
-**Drishtijain02/Drishtijain02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
